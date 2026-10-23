@@ -102,7 +102,7 @@ window.CONTENT = {
       { title: "Dis Moi", src: "audio/Fally_Ipupa_-_Dis-moi__Clip_non_officiel_(48k).mp3", artist: "Falli ipupa",    youtube: "Nm8cAZbxO1M", expect: ["Dis moi"], note: "Le monde est un peu plus beau avec des gens comme toi dedans." },
       { title: "Stand by Me", src: "audio/Ben_E._King_-_Stand_By_Me__Audio_(256k).mp3",           artist: "Ben E. King",         youtube: "hwZNL7QVJjE", expect: ["stand by me"],     note: "Une promesse simple : tu peux compter sur moi." }
     ],
-    credits: "Lecture via les vidéos YouTube officielles des artistes. Les droits appartiennent à leurs auteurs.",
+    credits: "Lecture via les fichiers audio de cette édition ; YouTube prend le relais si un fichier est indisponible.",
     nowPlaying: "En lecture",
     paused: "En pause",
     prev: "Morceau précédent",
