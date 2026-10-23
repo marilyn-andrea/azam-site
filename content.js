@@ -142,7 +142,7 @@ window.CONTENT = {
     greeting: "Marilyn,",
     detail: "être là au bon moment, sans en faire une histoire,",
     before: [
-      "Au stage, on partage surtout des tâches, des mails et des deadlines. Avec toi, c'est aussi des pauses qui durent un peu trop longtemps, des fous rires pour rien, et des journées qui passent plus vite. Je ne sais pas si tu t'en rends compte, mais tu rends les choses plus simples quand tu es là.",
+      "Au stage, on partage surtout des tâches, des mails et des delais qu'on trouve très petits. Avec toi, c'est aussi des pauses qui durent un peu trop longtemps, des fous rires pour rien, et des journées qui passent plus vite. Je ne sais pas si tu t'en rends compte, mais tu rends les choses plus simples quand tu es là.",
       "Il y a des gens qu'on apprécie, et d'autres, plus rares, dont on remarque la présence autant que l'absence. Tu fais partie des deuxièmes."
     ],
     after: [
@@ -150,7 +150,7 @@ window.CONTENT = {
       "Aujourd'hui, tu as 20 ans. Je te souhaite de garder cette légèreté et cette force, de croire en ce que tu construis, et de ne jamais douter de la place que tu mérites.",
       "Merci d'être toi, tout simplement. J'ai hâte de voir ce que cette année va te réserver."
     ],
-    signature: "TITONOU",
+    signature: "CITRON",
     ps: "P.S. — Les personnes comme toi ne devraient jamais douter de la trace qu'elles laissent."
   },
 
